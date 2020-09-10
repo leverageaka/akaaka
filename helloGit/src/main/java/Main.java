@@ -7,6 +7,7 @@ public class Main {
         System.out.println(("ahsjkhd"));
         System.out.println(("1"));
         System.out.println(("分支"));
+        System.out.println(("主干添加"));
 
     }
 }
